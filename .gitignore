@@ -1,0 +1,8 @@
+*
+
+!/publish/
+!/publish/**
+
+!/Dockerfile
+
+!.gitignore
